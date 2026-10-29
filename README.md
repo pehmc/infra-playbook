@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>EDC HandBook</h1>
+  <h1>Infra PlayBook</h1>
   <p>
-    企业级数据中心手册
+     IT基础设施架构
     <br />
-    <a href="https://github.com/pehmc/edc-handbook/releases">下载pdf</a>
+    <a href="https://github.com/pehmc/infra-playbook/releases">下载pdf</a>
     ·
-    <a href="https://github.com/pehmc/edc-handbook/issues">报告错误</a>
+    <a href="https://github.com/pehmc/infra-playbook/issues">报告错误</a>
   </p>
 </div>
 
